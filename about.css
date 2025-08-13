@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif; 
+     background: linear-gradient(to right, #fdfbfb, #cfd8f0, #ebedee);
+    /* background-color: #e0f7fa; */
+    /* background: linear-gradient(to right, #fdfbfb, #ebedee); */    
+}
+.navbar{
+    color: white;
+
+    background-color: #020000;
+
+}
+#mynavbar a{
+    color: white;
+    border-bottom: 2px solid transparent;
+
+}
+#mynavbar a:hover{
+
+    border-bottom: 2px solid white;
+}
+.nav-item{
+    padding-left:10px;
+}
+
+#hero .display-4{
+    text-align: center;
+}
+#Mission{
+    background: linear-gradient(to right, #fdfbfb, #cfd8f0, #ebedee);
+}
+.card-footer {
+      background: linear-gradient(to right, #fdfbfb, #cfd8f0, #ebedee);
+    /* background: linear-gradient(to right, #fdfbfb, #dce3f4, #ebedee); */
+  background: transparent;
+}
+#footer{
+    color: #020000;
+    background: linear-gradient(to right, #fdfbfb, #cfd8f0, #ebedee);
+
+}
+#footer p a{
+    text-align: left;
+}

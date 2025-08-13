@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    color: white;
+
+    background-color: #020000;
+
+}
+#mynavbar a{
+    color: white;
+    border-bottom: 2px solid transparent;
+
+}
+#mynavbar a:hover{
+
+    border-bottom: 2px solid white;
+}
+.nav-item{
+    padding-left:10px;
+}
+#contactus {
+    padding: 50px 0;
+    background: linear-gradient(to right, #fdfbfb, #cfd8f0, #ebedee);
+}
+ .formbg {
+      background: linear-gradient(to right, #fdfbfb, #cfd8f0, #ebedee);
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .thks h4 {
+      font-weight: bold;
+      color: #0d6efd;
+    }
+
+    .form input {
+      width: 100%;
+      padding: 10px;
+      border-radius: 5px;
+      border: 1px solid #ced4da;
+    }
+
+    .form label {
+      font-weight: 500;
+    }
+    #footer{
+    color: #020000;
+    background: linear-gradient(to right, #fdfbfb, #cfd8f0, #ebedee);
+
+}
+#footer p a{
+    text-align: left;
+
+}

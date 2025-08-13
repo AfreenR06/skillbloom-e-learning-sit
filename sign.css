@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#signin{
+    background: linear-gradient(to right, #fdfbfb, #cfd8f0, #ebedee);
+}
+.container{
+    border-radius: 20px;
+}
